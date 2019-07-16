@@ -5,4 +5,5 @@ No normalization is performed to datasets.
 ## Files
 | File | Description |
 | ------ | ------ |
-| w10\_adv\_train.t7 | Adversarial Training (width=10, epoch=65) |
+| clean.t7 | Clean Training (width=10, epoch=170) |
+| adv\_train.t7 | Adversarial Training (width=10, epoch=65) |
